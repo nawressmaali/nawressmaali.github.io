@@ -1,0 +1,42 @@
+body{
+    background: #f0f8ff ;
+}
+.container {
+  width: 700px; /* set the width of your container */
+  margin: 40px auto; /* set margins: top/bottom: 40px; left/right: automatic */
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 50% ;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  margin: 20px ;
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 8%;
+
+}
+small{
+  color: #4d94ff;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-facebook {
+   border-radius: 50%;
+  width: 5px ;
+  height: 5px ;
+  background: #3B5998;
+  color: white;
+}
